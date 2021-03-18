@@ -19,5 +19,5 @@
 
 * * *
 
-<img path="" height="" src="./png/170719_cat01"></img>
+<img path="" height="" src="./png/170719_cat01.png"></img>
 
